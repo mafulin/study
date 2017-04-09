@@ -1,1 +1,4 @@
 # study
+- linux
+- java
+- hadoop
